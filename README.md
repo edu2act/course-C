@@ -1,6 +1,6 @@
-# 程序设计基础（C语言） 
-> <img src="./Image/logo.png" height="50" />
+<img src="./Image/logo.png" height="50" /> 
 
+# 程序设计基础（C语言）  
 
 ## 课程大纲
 
