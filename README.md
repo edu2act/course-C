@@ -12,4 +12,5 @@
 |03. 运算符与表达式|左值与右值、表达式概念、运算符|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch03/C语言程序设计_chapt03.pdf)|
 |04. 流程控制语句|分支语句、循环语句|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch04/C语言程序设计_chapt04.pdf)|
 |05. 数组的使用|一维数组、二维数组、一维数组和字符串|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch05/C语言程序设计_chapt05.pdf)|
-|06. 指针|指针变量的声明与使用、多重指针声明与使用、指针与数组、指针与字符串|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch06/C语言程序设计_chapt06.pdf)|
+|06. 指针|指针变量的声明与使用、多重指针声明与使用、指针与数组、指针与字符串|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide1](/Slides/Ch06/C语言程序设计_chapt06.pdf) [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide2](/Slides/Ch06/C语言程序设计_chapt06_2.pdf)|
+
