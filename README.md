@@ -13,4 +13,6 @@
 |04. 流程控制语句|分支语句、循环语句|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch04/C语言程序设计_chapt04.pdf)|
 |05. 数组的使用|一维数组、二维数组、一维数组和字符串|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch05/C语言程序设计_chapt05.pdf)|
 |06. 指针|指针变量的声明与使用、多重指针声明与使用、指针与数组、指针与字符串|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide1](/Slides/Ch06/C语言程序设计_chapt06.pdf) [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide2](/Slides/Ch06/C语言程序设计_chapt06_2.pdf)|
-
+|07. 函数|函数定义与调用、递归函数、生存周期与作用域|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch07/C语言程序设计_chapt07.pdf)|
+|08. 构造数据类型|结构体、共用体、枚举、链表基本操作|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide1](/Slides/Ch08/C语言程序设计_chapt08.pdf) [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slide2](/Slides/Ch08/C语言程序设计_chapt08_2.pdf)|
+|09. 预处理|常见预处理指令、文件包含、宏定义、条件编译|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/Slides/Ch09/C语言程序设计_chapt09.pdf)|
