@@ -2,8 +2,10 @@
 
 # 程序设计基础C语言 
 
->（2017~2018 第二学期）
+>（2019~2020学年 第二学期）
 
+- [课程大纲](materials/outline.docx)
+- [进度计划](materials/schedule.docx)
 
 ## 课程内容
 
